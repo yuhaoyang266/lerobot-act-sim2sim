@@ -209,10 +209,15 @@ __marimo__/
 # Project-specific large artifacts (do not upload)
 lerobot/act/datasets/
 lerobot/act/reports/act_eval_videos/
+lerobot/act/reports/m1*/
 lerobot/act/training/*/ckpt/
 lerobot/act/training/*/norm_stats.npz
 lerobot/act/training/*/metrics.jsonl
 lerobot/act/training/*/config.json
+lerobot/act/training/run-*/
+lerobot/act/training/best_model.pt
 act_project/reports/
 **/*.mp4
 **/*.hdf5
+.claude/
+mujoco_menagerie-main/
