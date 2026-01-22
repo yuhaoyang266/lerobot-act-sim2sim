@@ -1,0 +1,13 @@
+{
+  "summary": {
+    "dataset": "lerobot/act/datasets/pnp-sim2sim",
+    "total_episodes": 500,
+    "goals": 50,
+    "demos_per_goal": 10,
+    "success_count": 500,
+    "attempt_count": 535,
+    "success_rate": 0.9345794392523364
+  },
+  "source_manifest": "lerobot/act/datasets/pnp-sim2sim/collection.json",
+  "generated_at": "2026-01-21T13:02:00Z"
+}

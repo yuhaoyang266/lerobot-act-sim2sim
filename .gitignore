@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific large artifacts (do not upload)
+lerobot/act/datasets/
+lerobot/act/reports/act_eval_videos/
+lerobot/act/training/*/ckpt/
+lerobot/act/training/*/norm_stats.npz
+lerobot/act/training/*/metrics.jsonl
+lerobot/act/training/*/config.json
+act_project/reports/
+**/*.mp4
+**/*.hdf5

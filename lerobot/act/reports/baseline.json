@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "episodes": 100,
+    "success_rate": 0.97,
+    "mean_steps": 127.13,
+    "success_count": 97,
+    "max_steps": 220
+  },
+  "source_report": "lerobot/act/reports/m1/m1_scripted_policy_report.json",
+  "generated_at": "2026-01-22T09:14:14Z"
+}

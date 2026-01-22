@@ -1,0 +1,10 @@
+{
+  "run_id": "run-ce-grip-cuda-20260122-081800",
+  "ckpt": "lerobot/act/training/run-ce-grip-cuda-20260122-081800/ckpt/epoch_100.pt",
+  "eval_episodes": 50,
+  "eval_max_steps": 220,
+  "success_rate": 0.98,
+  "success_count": 49,
+  "mean_steps": 67.66,
+  "generated_at": "2026-01-22T08:40:00Z"
+}
